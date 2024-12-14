@@ -1,54 +1,42 @@
-<header>
+bronnen:
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+**Technieken
+**
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+aria-current. (n.d.). Aditus. https://www.aditus.io/aria/aria-current/#:~:text=how%20to%20use-,aria%2Dcurrent%3D%22page%22,page%20in%20the%20main%20navigation.
 
-</header>
+border-left - CSS: Cascading Style Sheets | MDN. (2023, July 18). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/border-left
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+ByteGrad. (2022, November 30). How to Embed a YouTube Video on Website Responsively with HTML & CSS [Video]. YouTube. https://www.youtube.com/watch?v=2h9CqRlHzrc
 
-## Step 1: Enable GitHub Pages
+Can you layer pictures on top of each other on a webpage? (n.d.). Stack Overflow. https://stackoverflow.com/questions/6488390/can-you-layer-pictures-on-top-of-each-other-on-a-webpage
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+gap - CSS: Cascading Style Sheets | MDN. (2024, July 4). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/gap
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+margin-right - CSS: Cascading Style Sheets | MDN. (2024, October 8). MDN Web Docs. https://developer.mozilla.org/en-US/docs/Web/CSS/margin-right
 
-### :keyboard: Activity: Enable GitHub Pages
+ 
+** Video & foto's
+** 
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
-<footer>
+(20) NCT on X: “THE BLOTTER PAPER : February to April
+#DOYOUNG  【Perfume - The 1st Mini Album】
+➫ 2023.04.17 6PM (KST)  #NCT_DOJAEJUNG #DOJAEJUNG #NCT
+#Perfume #DOJAEJUNG_Perfume  💿Pre-save & Pre-order
+https://t.co/csoLJgOhQT https://t.co/farNsl0Am8” / X. (n.d.). X (Formerly Twitter). https://x.com/NCTsmtown/status/1642904949146398720
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+Iz*One. (2024, October 28). NCT DOJAEJUNG Members Profile (Updated!) - KPop Profiles. Kpop Profiles. https://kprofiles.com/nct-dojaejung-members-profile/
 
----
+MBCkpop. (2023, May 6). [예능연구소] NCT DOJAEJUNG - Perfume(NCT 도재정 – 퍼퓸) FanCam | Show! MusicCore | MBC230506방송 [Video]. YouTube. https://www.youtube.com/watch?v=Smfs2-TiJ08
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+NCT. (2023b, May 15). Let’s DO! JAE! JUNG!🐰🍑🐶 | NCT DOJAEJUNG ‘Perfume’ 음악방송 대기실 비하인드 [Video]. YouTube. https://www.youtube.com/watch?v=wpDMyB7Pce8
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+NCT DOJAEJUNG - Perfume 1st Mini Album BOX Random Ver. : Amazon.nl: Home & Kitchen. (n.d.). https://www.amazon.nl/-/en/NCT-DOJAEJUNG-Perfume-Album-Random/dp/B0BZR8DSZT
 
-</footer>
+NCT DOJAEJUNG - Perfume: The Scent Notes (Base Note Group and Individual teaser images). (2023, April). Reddit. https://www.reddit.com/r/NCT/comments/126pn8v/nct_dojaejung_perfume_the_scent_notes_base_note/?tl=nl
+
+X.com. (n.d.). X (Formerly Twitter). https://x.com/NCTsmtown/status/1646891233049206784
+
+yatipum. (2022, October 24). Can we go Back [Jaehyun Jungwoo Doyung] NCT 127 2ND TOUR 'NEO CITY SEOUL – THE LINK +’ [Video]. YouTube. https://www.youtube.com/watch?v=w4CqgEb5K8Q
